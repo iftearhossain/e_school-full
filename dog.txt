@@ -1,0 +1,35 @@
+figma to html 
+
+bootgstarp js css 
+
+fnots style 
+
+     font-family: 'Poppins', sans-serif;
+
+	 font-family: 'Roboto', sans-serif;
+
+
+desing
+
+xxl-xl-lg      md               sm-col
+
+
+
+s_img 75*85
+
+header=  class="fixed-top"
+
+c-items bg color= #FFFFFF
+
+
+
+
+
+
+
+
+
+
+
+
+
